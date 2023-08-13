@@ -1,0 +1,13 @@
+<%- include('header.ejs') %>
+
+<% if(locals.adj) { %>
+    <h1><%= adj %></h1>
+<% } else { %>
+    <h1>Band Name Generator</h1>
+<% } %>
+
+<form action="/submit" method="POST">
+    <input type="submit" value="Generate" />
+</form>
+
+<%- include('footer.ejs') %>

@@ -1,0 +1,48 @@
+*
+{
+    background: #222;
+    color: hotpink;
+}
+main
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+h1
+{
+    font-size: 3.5rem;
+}
+input
+{
+    appearance: none;
+    -webkit-appearance: none;
+    border: 0;
+    border-radius: 20%;
+    font-size: 0.9rem;
+    background: #888;
+    color: #f5e9f5;
+    padding: 1rem;
+    cursor: pointer;
+}
+input:hover
+{
+    background: #999;
+}
+footer
+{
+    position: absolute;
+    bottom: 0;
+}
+footer li
+{
+    display: inline-block;
+    margin: 0 1rem;
+}
