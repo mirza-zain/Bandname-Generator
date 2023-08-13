@@ -52,4 +52,4 @@ const adjective = [
     "Standard Model", "Theory of Everything", "Grand Unified Theory", "Ekpyrotic Universe", 
     "Oscillating Universe", "Eternal Inflation", "False Vacuum", "Brane Cosmology", "Holographic Principle", 
     "Anthropic Principle", "Fine-Tuned Universe", "Boltzmann Brain", "Quantum Mind", "Simulated Universe", "Mathematical Universe",
-    "Time Crystals", "Closed Timelike Curves", "Causal Loops" ];
+    "Time Crystals", "Closed Timelike Curves", "Causal Loops", "Crazy Beats"];
